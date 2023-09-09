@@ -5,7 +5,7 @@ APLIKASI ENKRIPSI DATA - AES 128
 
 Basic Source code menggunakan Php Dan MySql
 
-Aplikasi ini di buat untuk sebagai bahan referensi proses Enkripsi dan Deskripsi Data, Format File yang didukung untuk di enkripsi adalah docx, xls, txt, ppt ataupun pdf. Ukuran file yang akan dienkripsi tidak boleh lebih dari 3MB.
+Aplikasi ini di buat untuk sebagai bahan referensi proses Enkripsi dan Deskripsi Data, Format File yang didukung untuk dienkripsi adalah docx, xls, txt, ppt ataupun pdf. Ukuran file yang akan dienkripsi tidak boleh lebih dari 3MB.
 
 Untuk User ada 2 fungsi Login User (admin dan User).
 
