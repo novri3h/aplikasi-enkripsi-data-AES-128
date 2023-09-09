@@ -9,14 +9,22 @@ Aplikasi ini di buat untuk sebagai bahan referensi proses Enkripsi dan Deskripsi
 
 Untuk User ada 2 fungsi Login User (admin dan User).
 
-Admin ---> User Name : admin
-      ---> Password  : admin
+Admin
 
-User  ---> User Name : User
-      ---> Password  : User
+User Name : admin
+
+Password  : admin
+
+User
+
+User Name : User
+
+Password  : User
 
 Pada saat akan melakukan Enkripsi data diminta untuk memasukan password (password Bebas dan perlu diingat, password ini digunakan kembali pada saat melakukan deskripsi file) 
+
 Hasil proses Enkripsi ada didalam folder dashboard --> file_encrypt
+
 Untuk hasil Deskripsi bisa langsung didownload pada menu berkas --> deskripsi berkas.
 
 Source code ini hanya sebagai bahan pembelajaran Proses Enkripsi dan Deskripsi Berkas.
