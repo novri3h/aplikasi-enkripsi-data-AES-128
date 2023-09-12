@@ -112,6 +112,8 @@ MIT
    [PlMe]: <https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md>
    [PlGa]: <https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md>
 
+   [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/) [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
+
 ## Credit
 > 𝕋𝕣𝕚 𝕙𝕒𝕣𝕥𝕠𝕟𝕠
 
