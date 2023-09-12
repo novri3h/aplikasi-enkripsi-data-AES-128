@@ -9,7 +9,7 @@ Aplikasi ini di buat untuk sebagai bahan referensi proses Enkripsi dan Deskripsi
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
-## Features Aplikasi enkripsi-data-AES-128
+## Features Aplikasi enkripsi data [AES-128]
 
 - Enkripsi data
 - Deskripsi data
