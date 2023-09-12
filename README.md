@@ -53,7 +53,7 @@ Akses pada browser dengan url
 ```sh
 http://localhost/phpmyadmin
 ```
-Login username : root 
+Login username : root
 
 Buat database baru dengan nama aes, kemudian klik Import database.
 
