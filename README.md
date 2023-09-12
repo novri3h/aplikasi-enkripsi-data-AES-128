@@ -1,4 +1,4 @@
-# Aplikasi-enkripsi-data-AES-128
+# Aplikasi enkripsi data [AES-128]
 
 ![Enkripsi App](https://github.com/novri3h/aplikasi-enkripsi-data-AES-128/assets/25641359/353e7962-19b4-425f-9851-e8204be9822c)
 
@@ -39,7 +39,7 @@ Aplikasi ini dibangun dengan menggunakan:
 
 ## Installation
 
-Buat folder baru dengan nama aes
+Buat folder baru dengan nama aes.
 
 Pindahkan isi Folder hasil extract kedalam folder aes.
 
@@ -49,7 +49,7 @@ c:\Xampp\htdocs\
 ```
 
 Start apache dan Mysql pada XAMPP
-Akses pada browser dengan url
+Akses pada browser dengan url:
 ```sh
 http://localhost/phpmyadmin
 ```
@@ -57,7 +57,7 @@ Login username : root
 
 Buat database baru dengan nama aes, kemudian klik Import database.
 
-Buka web enkripsi data pada browser dengan url
+Buka web enkripsi data pada browser dengan url:
 ```sh
 http://localhost/aes
 ```
