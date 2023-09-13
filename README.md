@@ -89,6 +89,7 @@ User
 User Name : User
 
 Password  : User
+<br>
 
 <div align="justify">Pada saat akan melakukan Enkripsi data diminta untuk memasukan password (password Bebas dan perlu diingat, password ini digunakan kembali pada saat melakukan deskripsi file).</div> 
 <br>
