@@ -3,7 +3,7 @@
 ![Enkripsi App](https://github.com/novri3h/aplikasi-enkripsi-data-AES-128/assets/25641359/353e7962-19b4-425f-9851-e8204be9822c)
 
 
-<div style="text-align: justify;">Aplikasi ini di buat untuk sebagai bahan referensi proses Enkripsi dan Deskripsi Data, Format File yang didukung untuk dienkripsi adalah docx, xls, txt, ppt ataupun pdf. Ukuran file yang akan dienkripsi tidak boleh lebih dari 3MB.</div>
+<div align="justify">Aplikasi ini di buat untuk sebagai bahan referensi proses Enkripsi dan Deskripsi Data, Format File yang didukung untuk dienkripsi adalah docx, xls, txt, ppt ataupun pdf. Ukuran file yang akan dienkripsi tidak boleh lebih dari 3MB.</div>
 <br>
 
 [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://trakteer.id/nadhif_studio)
