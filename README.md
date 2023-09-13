@@ -51,28 +51,32 @@ Aplikasi ini dibangun dengan menggunakan:
 
 Buat folder baru dengan nama aes.
 
-Pindahkan isi Folder hasil extract kedalam folder aes.
+<div align="justify">Pindahkan isi Folder hasil extract kedalam folder aes.</div>
+<br>
 
 Pindahkan Folder aes ke dalam folder:
 ```sh
 c:\Xampp\htdocs\
 ```
 
-Start apache dan Mysql pada XAMPP
-Akses pada browser dengan url:
+<div align="justify">Start apache dan Mysql pada XAMPP Akses pada browser dengan url:</div>
+
 ```sh
 http://localhost/phpmyadmin
 ```
 Login username : root
 
-Buat database baru dengan nama aes, kemudian klik Import database.
+<div align="justify">Buat database baru dengan nama aes, kemudian klik Import database.</div>
+<br>
 
-Buka web enkripsi data pada browser dengan url:
+<div align="justify">Buka web enkripsi data pada browser dengan url:</div>
+
 ```sh
 http://localhost/aes
 ```
 
-Untuk User ada 2 fungsi Login User (admin dan User).
+<div align="justify">Untuk User ada 2 fungsi Login User (admin dan User).</div>
+<br>
 
 Admin
 
@@ -89,12 +93,13 @@ Password  : User
 <div align="justify">Pada saat akan melakukan Enkripsi data diminta untuk memasukan password (password Bebas dan perlu diingat, password ini digunakan kembali pada saat melakukan deskripsi file).</div> 
 <br>
 
-Hasil proses Enkripsi ada didalam folder dashboard --> file_encrypt
+<div align="justify">Hasil proses Enkripsi ada didalam folder dashboard --> file_encrypt</div>
 <br>
 
-Untuk hasil Deskripsi bisa langsung didownload pada menu berkas --> deskripsi berkas.
+<div align="justify">Untuk hasil Deskripsi bisa langsung didownload pada menu berkas --> deskripsi berkas.</div>
+<br>
 
-Source code ini hanya sebagai bahan pembelajaran Proses Enkripsi dan Deskripsi Berkas.
+<div align="justify">Source code ini hanya sebagai bahan pembelajaran Proses Enkripsi dan Deskripsi Berkas.</div>
 
 ## License
 
